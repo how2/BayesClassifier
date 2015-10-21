@@ -1,1 +1,1 @@
-# Learning HAMR
+# A Bayes Classifier using HAMR
